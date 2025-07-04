@@ -1,4 +1,4 @@
-# Pharmaceutical-Sales-and-Perfomance-Dashboard
+# Pharmaceutical Sales and Perfomance Dashboard
 
 Project Description:
 Developed an interactive Power BI dashboard to analyze and monitor sales performance for Cadila Pharmaceuticals. The dashboard included dynamic KPIs, slicers, and visualizations to track product-wise sales, region-wise distribution, monthly trends, and top-performing medical representatives.
